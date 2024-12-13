@@ -1,3 +1,8 @@
+import yfinance as yf
+import matplotlib.pyplot as plt
+
+# Define ETFs to compare
+
 # Update the ETF list to include 5 more popular ETFs
 etfs = {
     "SPY": "S&P 500 ETF (SPY)",                  # Broad US Market
